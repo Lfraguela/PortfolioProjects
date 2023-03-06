@@ -1,6 +1,7 @@
 # Data Analyst Portfolio Projects
 
 Welcome to my Data Analyst Portfolio. In here you will find a collection of projects using different Data Analyst tools for cleaning data, data exploration and visualization. 
+
 The tools used in these projects are:
 
 - SQL
@@ -25,4 +26,4 @@ For this project we used Tableau Public to create a Dashboard with data from [Ai
 In this project we use a raw data from a [Data Professionals survey]( https://github.com/Lfraguela/PortfolioProjects/blob/main/Power%20BI%20-%20Data%20Professionals1.xlsx) and imported into Power BI Desktop to create a [Dashboard]( https://github.com/Lfraguela/PortfolioProjects/blob/main/Power%20BI%20Project_Data%20Professionals%20Survey.pbix).
 
 
-
+## More about me. Visit my [LinkedIn Profile](https://www.linkedin.com/in/liset-fraguela/) and check my [Web Portfolio](https://lfraguela.github.io/LFraguelaPortfolio.github.io/).
