@@ -25,5 +25,9 @@ For this project we used Tableau Public to create a Dashboard with data from [Ai
 
 In this project we use a raw data from a [Original Data Professionals Survey]( https://github.com/Lfraguela/PortfolioProjects/blob/main/Power%20BI%20-%20Data%20Professionals1.xlsx) and cleaned it to obtain the [Final Data Professionals Survey](https://github.com/Lfraguela/PortfolioProjects/blob/main/Power%20BI%20-%20Final%20Data%20Professionals.xlsx). The cleaned data was imported into Power BI Desktop to create a [Dashboard]( https://github.com/Lfraguela/PortfolioProjects/blob/main/Power%20BI%20Project_Data%20Professionals%20Survey.pbix).
 
+## Project 5: Bike buyers analysis with Excel
+
+In this Excel project, we cleaned the [Bike buyers' data](https://www.kaggle.com/datasets/heeraldedhia/bike-buyers?select=bike_buyers.csv), created pivot tables, charts, and a dashboard. To see the completed project click [here](https://github.com/Lfraguela/PortfolioProjects/blob/main/Excel%20Project%20Bike%20Buyers.xlsx).
+
 
 ## More about me. Visit my [LinkedIn Profile](https://www.linkedin.com/in/liset-fraguela/) and check my [Web Portfolio](https://lfraguela.github.io/LFraguelaPortfolio.github.io/).
