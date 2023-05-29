@@ -29,5 +29,8 @@ In this project we use a raw data from a [Original Data Professionals Survey]( h
 
 In this Excel project, we cleaned the [Bike buyers' data](https://www.kaggle.com/datasets/heeraldedhia/bike-buyers?select=bike_buyers.csv), created pivot tables, charts, and a dashboard. To see the completed project click [here](https://github.com/Lfraguela/PortfolioProjects/blob/main/Excel%20Project%20Bike%20Buyers.xlsx).
 
+## Project 6: Test Score Analysis with Excel
+
+For this project,  a simulated dataset of Test scores was created. The objective is to examine the impact of historical data, learning resources, and the type of students on a particular test score of interest. Two dashboards were created to show the results. To access the Excel file click [Here]()
 
 ## More about me. Visit my [LinkedIn Profile](https://www.linkedin.com/in/liset-fraguela/) and check my [Web Portfolio](https://www.datascienceportfol.io/lisetfraguela).
