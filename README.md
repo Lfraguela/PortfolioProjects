@@ -31,6 +31,6 @@ In this Excel project, we cleaned the [Bike buyers' data](https://www.kaggle.com
 
 ## Project 6: Test Score Analysis with Excel
 
-For this project,  a simulated dataset of Test scores was created. The objective is to examine the impact of historical data, learning resources, and the type of students on a particular test score of interest. Two dashboards were created to show the results. To access the Excel file click [Here]()
+For this project, Excel was utilized to create a simulated dataset presented in Table Format (See the Excel file [Here]()). The objective is to examine the impact of historical data, learning resources, and the type of students on a particular test score of interest. Two dashboards were created to show the results. To access the full report click [Here]().
 
 ## More about me. Visit my [LinkedIn Profile](https://www.linkedin.com/in/liset-fraguela/) and check my [Web Portfolio](https://www.datascienceportfol.io/lisetfraguela).
